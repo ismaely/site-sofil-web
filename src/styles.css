@@ -3,3 +3,11 @@
 body {
     background-color: #f7f7f7;
 }
+
+.banner {
+    min-height: 400px;
+}
+
+.corpo {
+    margin-top: -10rem;
+}
