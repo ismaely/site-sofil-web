@@ -8,6 +8,8 @@ import { AppBannerComponent } from './app-banner/app-banner.component';
 import { AppFooterComponent } from './app-footer/app-footer.component';
 import { AppCorpoComponent } from './app-corpo/app-corpo.component';
 import { AppIndexComponent } from './app-index/app-index.component';
+import { PageServiceComponent } from './page-service/page-service.component';
+import { PageContactoComponent } from './page-contacto/page-contacto.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +18,9 @@ import { AppIndexComponent } from './app-index/app-index.component';
     AppBannerComponent,
     AppFooterComponent,
     AppCorpoComponent,
-    AppIndexComponent
+    AppIndexComponent,
+    PageServiceComponent,
+    PageContactoComponent
   ],
   imports: [
     BrowserModule,
