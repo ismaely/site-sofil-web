@@ -25,6 +25,7 @@
                         ],
                         "styles": [
                             "./node_modules/materialize-css/dist/css/materialize.min.css",
+                            "src/assets/css/material-iconic-font/css/materialdesignicons.min.css",
                             "src/styles.css"
                         ],
                         "scripts": [
